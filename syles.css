@@ -1,0 +1,23 @@
+body { 
+    background-color: hsla(188, 71%, 74%, 0.391);
+}
+h1 { 
+    text-align: center;
+    color:rgba(219, 18, 18, 0.613)
+    
+
+}
+h2
+{color:rgba(219, 18, 18, 0.613)}
+h3 
+{ color:rgba(219, 18, 18, 0.613) }
+
+div{
+    background-color: rgb(188, 71%, 74%, 0.391);
+    text-align: left;
+    color: 100, 97, 97, 0.391;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    cursor: alias;
+
+}
